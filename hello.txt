@@ -1,4 +1,8 @@
 helloworld
 abc
 123456
+<<<<<<< HEAD
 wh
+=======
+sjh
+>>>>>>> origin/master
